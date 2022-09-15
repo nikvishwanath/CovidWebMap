@@ -7,11 +7,7 @@ Includes a script that parses through a csv file, which is maintained and update
 https://covid.ourworldindata.org/data/owid-covid-data.csv
 
 ## The Map ## 
-Here is what the map looks like on 9/12/2022: 
-
-![](https://github.com/nikvishwanath/CovidWebMap/blob/main/Images/Screenshot%202022-09-15%20101857.png)
-
-And here is the user interactivity: 
+Below is the map as viewed on 9/13/2022.  When the user hovers over a country, the total cases, total deaths, and date last updated are displayed: 
 
 ![](https://github.com/nikvishwanath/CovidWebMap/blob/main/Images/Animation.gif)
 
